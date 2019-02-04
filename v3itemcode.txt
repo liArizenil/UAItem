@@ -1,4 +1,4 @@
-20190205
+20190204
 
 Vehicle ID 1: Black Offroader : 검은색 오프로더
 Vehicle ID 2: Blue Offroader : 파란색 오프로더
