@@ -1,1 +1,38 @@
+20190204
 
+Item ID 0: Fancy Shades : 파티 안경
+Item ID 1: Civilian NVG : 민간인 NVG
+Item ID 2: Stetson : 보안관 모자
+Item ID 3: Construction Helmet : 건설 헬멧
+Item ID 4: Fire Helmet : 소방 헬멧(검은색)
+Item ID 5: Police Cap : 경찰 모자
+Item ID 6: Fire Helmet : 소방 헬멧(갈색)
+Item ID 7: Desert Helmet : 사막 군용 헬멧
+Item ID 8: Forest Helmet : 숲 군용 헬멧
+Item ID 9: Dixie Hat : 선원 모자
+Item ID 10: Bandana : 반다나
+Item ID 11: Ghillie Hood : 길리 후드
+Item ID 12: Ninja Hood : 닌자 후드
+Item ID 13: Farmer Hat : 농부 모자
+Item ID 14: Chef Hat : 요리사 모자
+Item ID 15: Beret : 베레모
+Item ID 16: Ushanka : 케나다 기병경찰대 모자
+Item ID 17: Military NVG : 군용 NVG
+Item ID 18: White Hat : 흰 모자(가계주인 모자)
+Item ID 19: Miner Helmet : 광부 헬멧
+Item ID 2000: Knapsack : 배낭
+Item ID 2001: Schoolbag : 책 가방
+Item ID 2002: Travelpack : 산악 가방
+Item ID 2003: Coyotepack : 코요테 가방(사막 군용 가방)
+Item ID 2004: Rucksack : 륙색(숲 군용 가방)
+Item ID 2005: Alicepack : 엘리스팩(닌자 가방)
+Item ID 2006: Animalpack : 동물 가죽 가방
+Item ID 3000: Civilian Armor : 민간 방탄복
+Item ID 3001: Desert Armor : 사막 군용 방탄복
+Item ID 3002: Forest Armor : 숲 군용 방탄복
+Item ID 3003: Police Armor : 경찰 방탄복
+Item ID 3004: Poncho : 판초
+Item ID 3005: Magick Cloak : 마법 망토
+Item ID 4000: Fancy Suit : 파티 정장
+Item ID 4001: RCMP Uniform : 케나다 기마경찰대 상의
+Item ID 4002: Police Uniform : 경찰 상의
