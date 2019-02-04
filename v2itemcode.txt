@@ -1,7 +1,7 @@
 20190204
 
 Vehicle ID Car: Car : 승용차
-Vehicle ID car_1 / 스포츠카
+Vehicle ID Car_1: Roadstar : 스포츠카
 Vehicle ID Truck: Truck : 트럭
 Vehicle ID Firetruck: Firetruck : 소방차
 Vehicle ID Policecar: Police Car : 경찰차
