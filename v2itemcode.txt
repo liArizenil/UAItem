@@ -1,5 +1,15 @@
 20190204
 
+Vehicle ID Car: Car : 승용차
+Vehicle ID car_1 / 스포츠카
+Vehicle ID Truck: Truck : 트럭
+Vehicle ID Firetruck: Firetruck : 소방차
+Vehicle ID Policecar: Police Car : 경찰차
+Vehicle ID Humvee: Desert Humvee : 사막 험비
+Vehicle ID Humvee_1: Forest Humvee : 숲 험비
+Vehicle ID Apc: Desert APC : 사막 APC
+Vehicle ID Apc_1: Forest APC : 숲 APC
+
 Item ID 0: Fancy Shades : 파티 안경
 Item ID 1: Civilian NVG : 민간인 NVG
 Item ID 2: Stetson : 보안관 모자
@@ -36,3 +46,286 @@ Item ID 3005: Magick Cloak : 마법 망토
 Item ID 4000: Fancy Suit : 파티 정장
 Item ID 4001: RCMP Uniform : 케나다 기마경찰대 상의
 Item ID 4002: Police Uniform : 경찰 상의
+Item ID 4003: Army Fatigues : 사막 군복 상의
+Item ID 4004: Army Fatigues : 숲 군복 상의
+Item ID 4005: Fireperson Top : 소방관 상의(갈색)
+Item ID 4006: Fireperson Top : 소방관 상의(검은색)
+Item ID 4007: Construction Vest : 건설 조끼
+Item ID 4008: Doctor Coat : 의사 코트
+Item ID 4009: Orange Hoodie : 주황색 후드
+Item ID 4010: Pink Shirt : 분홍색 셔츠
+Item ID 4011: Boring Suit : 정장 상의
+Item ID 4012: Blue Sweatervest : 파란색 니트 조끼
+Item ID 4013: Jumper Top : 농부 상의
+Item ID 4014: Grocer Top : 식료품점 상의
+Item ID 4015: Sailor Fatigues : 선원 셔츠
+Item ID 4016: Animal Shirt : 동물 가죽 셔츠
+Item ID 4017: Ghillie Top : 길리 상의
+Item ID 4018: Ninja Top : 닌자 상의
+Item ID 4019: Plaid Shirt : 격자무늬 셔츠
+Item ID 4020: Chef Shirt : 요리사 셔츠
+Item ID 5000: Fancy Jeans : 파티 바지
+Item ID 5001: RCMP Uniform : 케나다 기마경찰대 하의
+Item ID 5002: Police Uniform : 경찰 하의
+Item ID 5003: Army Fatigues : 사막 군복 하의
+Item ID 5004: Army Fatigues : 숲 군복 하의
+Item ID 5005: Fireperson Pants : 소방관 하의(갈색)
+Item ID 5006: Fireperson Pants : 소방관 하의(검은색)
+Item ID 5007: Work Jeans : 청바지
+Item ID 5008: Doctor Pants : 의사 하의
+Item ID 5009: Grey Pants : 회색 바지
+Item ID 5010: Khaki Pants : 카키 바지
+Item ID 5011: Boring Pants : 정장 바지
+Item ID 5012: Brown Pants : 갈색 바지
+Item ID 5013: Jumper Bottom : 농부 하의
+Item ID 5014: Grocer Bottom : 식료품점 하의
+Item ID 5015: Sailor Fatigues : 선원 바지
+Item ID 5016: Animal Pants : 동물 가죽 바지
+Item ID 5017: Ghillie Bottom : 길리 하의
+Item ID 5018: Ninja Bottom : 닌자 하의
+Item ID 5019: Lumberjack Pants : 벌목꾼 바지
+Item ID 5020: Chef Pants : 요리사 바지
+Item ID 7000: Swissgewehr : 스위스게베어
+Item ID 7001: Colt : 콜트
+Item ID 7002: Double Barrel : 더블 베럴
+Item ID 7003: Mosen : 모신
+Item ID 7004: Longbow : 장궁
+Item ID 7005: Novuh : 노바
+Item ID 7006: Berette : 베라타
+Item ID 7007: Crossbow : 석궁
+Item ID 7008: Maplestrike : 메이플 스트라이크
+Item ID 7009: Zubeknakov : 주베크나코브
+Item ID 7010: Magnum : 매그넘
+Item ID 7011: Timberwolf : 팀버올프
+Item ID 7012: Uzy : 우지
+Item ID 7013: Matamorez : 마타모레즈
+Item ID 7014: Compound Bow : 컴파운드 보우
+Item ID 7015: Outfield : 아웃필드
+Item ID 7016: Lever Action : 레버 액션
+Item ID 7017: Proninety : P90
+Item ID 7018: Desert Falcon : 데저트 팔콘
+Item ID 8000: Axe : 도끼
+Item ID 8001: Handlamp : 손전등
+Item ID 8002: Pick : 곡괭이
+Item ID 8003: Kitchen Knife : 부엌칼
+Item ID 8004: Hammer : 해머
+Item ID 8005: Frying Pan : 후라이팬
+Item ID 8006: Baseball Bat : 야구배트
+Item ID 8007: Police Baton : 경찰봉
+Item ID 8008: Torch : 경찰용 손전등
+Item ID 8009: Fireaxe : 소방도끼
+Item ID 8010: Crowbar : 팬치
+Item ID 8011: Pocketknife : 작은 칼
+Item ID 8012: Butcher Knife : 요리용 칼
+Item ID 8013: Sledgehammer : 소방망치
+Item ID 8014: Golf Club : 골프채
+Item ID 8015: Katana : 카타나
+Item ID 8016: Machete : 마테체
+Item ID 8017: Spike : 나무 꼬챙이
+Item ID 8018: Branch : 나무 막대기
+Item ID 8019: Handsaw : 톱
+Item ID 9000: Red Dot Sight : 레드닷 조준기
+Item ID 9001: Open Circle Rail : 원형 조준기
+Item ID 9002: 12x Zoom Scope : 12배율 조준경 
+Item ID 9003: Holographic Sight : 홀로그램 조준기
+Item ID 9004: 6x Zoom Scope : 6배율 조준경
+Item ID 9005: Half Circle Rail : 반원형 조준기
+Item ID 9006: Full Circle Rail : 원형 조준기
+Item ID 9007: Dual Component Rail : 복합요소 조준기
+Item ID 9008: Planar Track Rail : 평면 트랙 조준기
+Item ID 9009: 20x Zoom Scope : 20배율 조준경
+Item ID 9010: Zoomomatic : 간이 조준경
+Item ID 9011: Point Circle Sight : 원형 포인트 조준기
+Item ID 9012: 7x Zoom Scope : 7배율 조준경
+Item ID 9013: Dual Point Rail : 복합 포인트 조준기
+Item ID 10000: NATO Magazine : 나토 탄창
+Item ID 10001: NATO Drum : 나토 드럼
+Item ID 10002: Swift Magazine : 콜트 탄창
+Item ID 10003: Bonjour Clip : 소총 클립
+Item ID 10004: Lebel Magazine : 베라타 탄창
+Item ID 10005: NATO Tracer : 나토 예광탄
+Item ID 10006: Savage Magazine : 세비지 탄창
+Item ID 10007: Savage Drum : 세비지 드럼
+Item ID 10008: Winchestre Clip : 매그넘 탄창
+Item ID 10009: Lapua Magazine  : 팀버올프 탄창
+Item ID 10010: Lapua Tracer : 팀버올프 예광탄
+Item ID 10011: Yuri Magazine : 우지 탄창
+Item ID 10012: Xtrmin Magazine : 마타모레즈 탄창
+Item ID 10013: PDW Magazine : P90 탄창
+Item ID 11000: Vertical Grip : 수직 손잡이
+Item ID 11001: Angled Grip : 앵글 손잡이
+Item ID 11002: Tactical Laser : 전술 레이저
+Item ID 11003: Tactical Light : 전술 라이트
+Item ID 11004: Bipod : 양각대
+Item ID 11005: Bayonet : 총검
+Item ID 12000: Suppressor : 소음기
+Item ID 12001: Flash Hider : 소염기
+Item ID 12002: Muffler : 수제 소음,소염기
+Item ID 13000: Medkit : 메디킷
+Item ID 13001: Rag : 손수건
+Item ID 13002: Splint : 부목
+Item ID 13003: Vitamins : 비타민
+Item ID 13004: Antibiotics : 항생제
+Item ID 13005: Painkillers : 진통대
+Item ID 13006: Dressing : 압박붕대
+Item ID 13007: Blood Bag : 혈액 가방
+Item ID 13008: Bandage : 붕대
+Item ID 13009: Adrenaline : 아드레날린
+Item ID 13010: Morphine : 모르핀
+Item ID 13011: Crushed Red Berries : 찧은 빨간색 열매
+Item ID 13012: Crushed Blue Berries : 찧은 파란색 열매
+Item ID 13013: Crushed Pink Berries : 찧은 분홍색 열매
+Item ID 13014: Crushed Pale Berries : 찧은 창백한 열매
+Item ID 13015: Crushed Green Berries : 찧은 초록색 열매
+Item ID 13016: Crushed Purple Berries : 찧은 보라색 열매
+Item ID 13017: Purification Tablets : 정화제
+Item ID 13018: Vaccine : 백신
+Item ID 14000: Canned Beans : 통조림 콩
+Item ID 14001: Granola Bar : 그레놀라 바
+Item ID 14002: Fresh Carrot : 신선한 당근
+Item ID 14003: Moldy Carrot : 썩은 당근
+Item ID 14004: Fresh Tomato : 신선한 토마토
+Item ID 14005: Moldy Tomato : 썩은 토마토
+Item ID 14006: Fresh Corn : 신선한 옥수수
+Item ID 14007: Moldy Corn : 썩은 옥수수
+Item ID 14008: Fresh Cabbage : 신선한 양상추
+Item ID 14009: Moldy Cabbage : 썩은 양상추
+Item ID 14010: Fresh Potato : 신선한 감자
+Item ID 14011: Moldy Potato : 썩은 감자
+Item ID 14012: Cooked Venison : 구운 사슴고기
+Item ID 14013: Raw Venison : 사슴고기
+Item ID 14014: Canned Soup : 통조림 수프
+Item ID 14015: Canned Chili : 통조림 칠리
+Item ID 14016: Canned Vegetables : 통조림 채소
+Item ID 14017: Canned Pasta : 통조림 파스터
+Item ID 14018: Canned Ham : 통조림 햄
+Item ID 14019: Canned Tuna : 통조림 참치
+Item ID 14020: Candy Bar : 캔디바
+Item ID 14021: Chocolate Bar : 초콜릿바
+Item ID 14022: MRE : MRE
+Item ID 14023: Potato Chips : 감자칩
+Item ID 14024: Bran Cereal : 브랜 시리얼
+Item ID 14025: Red Berries : 빨간색 열매
+Item ID 14026: Blue Berries : 파란색 열매
+Item ID 14027: Pink Berries : 분홍색 열매
+Item ID 14028: Pale Berries : 창백한 열매
+Item ID 14029: Green Berries : 초록색 열매
+Item ID 14030: Purple Berries : 보라색 열매
+Item ID 14031: Coconut : 코코넛
+Item ID 14032: Cooked Bacon : 구운 돼지고기
+Item ID 14033: Raw Bacon : 돼지고기
+Item ID 15000: Bottled Water : 생수
+Item ID 15001: Canned Cola : 캔 콜라
+Item ID 15002: Apple Juice Box : 사과 주스
+Item ID 15003: Large Bottled Water : 작은 생수
+Item ID 15004: Energy Drink : 에너지 드링크
+Item ID 15005: Moldy Milk : 썩은 우유
+Item ID 15006: Moldy Orange Juice : 썩은 오렌지 주스
+Item ID 15007: Moldy Bottled Water : 썩은 생수
+Item ID 15008: Milk : 우유
+Item ID 15009: Orange Juice : 오렌지 주스
+Item ID 16000: Wooden Shield : 나무 방패
+Item ID 16001: Metal Door : 철문
+Item ID 16002: Worklight : 전등
+Item ID 16003: Caltrop : 못 함정
+Item ID 16004: Barbed Wire : 가시 철조망
+Item ID 16005: Wooden Spike Trap : 나무 함정
+Item ID 16006: Snare : 덫
+Item ID 16007: Generator : 발전기
+Item ID 16008: Note : 노트
+Item ID 16009: Electric Trap : 전기 함정
+Item ID 16010: Sandbags : 샌드백
+Item ID 16011: Sleeping Bag : 침낭
+Item ID 16012: Cot : 침대
+Item ID 16013: Campfire : 캠프파이어
+Item ID 16014: Metal Shutter : 철제 창문
+Item ID 16015: MOAB : C4
+Item ID 16016: Tripmine : 클레이모어
+Item ID 16017: Landmine : 지뢰
+Item ID 16018: Metal Shield : 금속 방패
+Item ID 16019: Wooden Crate : 나무 상자
+Item ID 16020: Barbed Fence : 가시 철책
+Item ID 16021: Electric Fence : 전기 철책
+Item ID 16022: Wooden Door : 나무 문
+Item ID 16023: Metal Locker : 철제 금고
+Item ID 16024: Wooden Shutter : 나무 창문
+Item ID 16025: Wooden Chest : 나무 잠금상자
+Item ID 16026: Brazier : 횃불
+Item ID 16027: Wooden Gate : 나무 출입문
+Item ID 16028: Metal Gate : 철제 출입문
+Item ID 17000: Wooden Foundation : 나무 바닥
+Item ID 17001: Wooden Wall : 나무 벽
+Item ID 17002: Wooden Doorway : 나무 문틀
+Item ID 17003: Wooden Pillar : 나무 기둥
+Item ID 17004: Wooden Platform : 나무 천장
+Item ID 17005: Wooden Ramp : 나무 계단
+Item ID 17006: Greenhouse Foundation : 천연 바닥
+Item ID 17007: Greenhouse Platform : 천연 천장
+Item ID 17008: Wooden Hole : 나무 구멍
+Item ID 17009: Wooden Ladder : 나무 사다리
+Item ID 17010: Wooden Window : 나무 창문
+Item ID 17011: Wooden Post : 나무 난간 기둥
+Item ID 17012: Wooden Rampart : 나무 난간 벽
+Item ID 17013: Stone Rampart : 돌 난간 벽
+Item ID 17014: Stone Post : 돌 난간 기둥
+Item ID 17015: Stone Wall : 돌 벽
+Item ID 17016: Stone Doorway : 돌 만틀
+Item ID 17017: Stone Window : 돌 창문
+Item ID 17018: Stone Pillar : 돌 기둥
+Item ID 17019: Dock Foundation : 부두 바닥
+Item ID 17020: Wooden Garage : 나무 차고
+Item ID 17021: Stone Garage : 돌 차고
+Item ID 18000: Board : 판자
+Item ID 18001: Nails : 못
+Item ID 18002: Bolts : 나사
+Item ID 18003: Log : 통나무
+Item ID 18004: Stick : 나뭇가지
+Item ID 18005: Animal Pelt : 동물 가죽
+Item ID 18006: Rope : 밧줄
+Item ID 18007: Wire : 철사
+Item ID 18008: Scrap Metal : 고철
+Item ID 18009: Cloth : 천
+Item ID 18010: Duct Tape : 테이프
+Item ID 18011: Can : 캔
+Item ID 18012: Raw Explosives : 폭발물
+Item ID 18013: Civilian Bullets : 민간용 총알
+Item ID 18014: Military Bullets : 군용 총알
+Item ID 18015: Stone : 돌
+Item ID 18016: Tracer Bullets : 예광탄 총알
+Item ID 18017: Batteries : 베터리
+Item ID 18018: Wooden Spike : 나무 막대
+Item ID 18019: Rocks : 암석
+Item ID 18020: Shells : 샷건 탄약
+Item ID 19000: Wooden Plate : 나무 판
+Item ID 19001: Wooden Support : 나무 받침
+Item ID 19002: Wooden Frame : 나무 뼈대
+Item ID 19003: Wooden Cross : 나무 크로스
+Item ID 19004: Stone Plate : 돌 판
+Item ID 19005: Stone Support : 돌 받침
+Item ID 19006: Stone Frame : 돌 뼈대
+Item ID 19007: Stone Cross : 돌 크로스
+Item ID 20000: Gas Can : 기름통
+Item ID 20001: Car Jack : 카잭
+Item ID 21000: Blowtorch : 용접기
+Item ID 21001: Chainsaw : 전기톱
+Item ID 22000: Carrot Seed : 당근 씨앗
+Item ID 22001: Tomato Seed : 토마토 씨앗
+Item ID 22002: Corn Seed : 옥수수 씨앗
+Item ID 22003: Cabbage Seed : 양상추 씨앗
+Item ID 22004: Potato Seed : 감자 씨앗
+Item ID 23000: Road Flare : 조명탄
+Item ID 23001: Red Chemlight : 빨간색 야광봉
+Item ID 23002: Blue Chemlight : 파란색 야광봉
+Item ID 23003: Yellow Chemlight : 노란색 야광봉
+Item ID 23004: Green Chemlight : 초록색 야광봉
+Item ID 23005: Orange Chemlight : 주황색 야광복
+Item ID 23006: Purple Chemlight : 보라색 야광복
+Item ID 23007: Frag Grenade : 세열수류탄
+Item ID 23008: Smoke Grenade : 연막탄
+Item ID 24000: Binoculars : 쌍안경
+Item ID 25000: Buckshot : 산탄
+Item ID 25001: Arrow : 화살
+Item ID 25002: Slug : 슬러그
+Item ID 26000: Canteen : 수통
+Item ID 27000: Fertilizer : 비료
+Item ID 28000: PEI Map  : PEI 지도
